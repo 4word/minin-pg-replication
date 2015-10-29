@@ -11,4 +11,5 @@ Replication lag warning: 3s<br />
 Replication lag critical: 5s<br />
 Replication targets warning: 1<br />
 Replication targets critical: 0<br />
-&nbsp;&nbsp;&nbsp;&nbsp;Adjust these yourself to match your use case, I use them for on-site secondary and off-site tertiary monitoring as-is.
+
+Adjust these yourself to match your use case, I use them for on-site secondary and off-site tertiary monitoring as-is.
